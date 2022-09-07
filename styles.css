@@ -1,0 +1,12 @@
+html {
+    background-color: #f1f0e9;
+    color: #313131;
+
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    display: block;
+    max-width: 500px;
+}
